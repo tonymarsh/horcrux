@@ -3,7 +3,6 @@
     "IMG_2572.JPG",
     "IMG_1988.JPG",
     "IMG_1677.JPG",
-    "DSCF0051.min.jpeg",
     "DSCF0051.jpeg",
     "792A2F52-C316-47AD-8734-85A3099A4180.jpg"
   ],
@@ -28,13 +27,6 @@
       "height": 2052,
       "path": "./photos/foo/IMG_1677.JPG",
       "min_path": "./photos/foo/IMG_1677.min.JPG"
-    },
-    "DSCF0051.min.jpeg": {
-      "type": "photo",
-      "width": 600,
-      "height": 400,
-      "path": "./photos/foo/DSCF0051.min.jpeg",
-      "min_path": "./photos/foo/DSCF0051.min.min.jpeg"
     },
     "DSCF0051.jpeg": {
       "type": "photo",
