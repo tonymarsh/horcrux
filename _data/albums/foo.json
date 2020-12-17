@@ -1,0 +1,22 @@
+{
+  "order": [
+    "DSCF0051.jpeg",
+    "792A2F52-C316-47AD-8734-85A3099A4180.jpg"
+  ],
+  "dict": {
+    "DSCF0051.jpeg": {
+      "type": "photo",
+      "width": 6240,
+      "height": 4160,
+      "path": "./photos/foo/DSCF0051.jpeg",
+      "min_path": "./photos/foo/DSCF0051.min.jpeg"
+    },
+    "792A2F52-C316-47AD-8734-85A3099A4180.jpg": {
+      "type": "photo",
+      "width": 2917,
+      "height": 2917,
+      "path": "./photos/foo/792A2F52-C316-47AD-8734-85A3099A4180.jpg",
+      "min_path": "./photos/foo/792A2F52-C316-47AD-8734-85A3099A4180.min.jpg"
+    }
+  }
+}
