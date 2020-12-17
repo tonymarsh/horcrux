@@ -8,31 +8,10 @@
     "list": [
       {
         "type": "photo",
-        "width": 3024,
+        "width": 4032,
         "height": 3024,
-        "path": "./photos/foo/IMG_2572.JPG",
-        "min_path": "./photos/foo/IMG_2572.min.JPG"
-      },
-      {
-        "type": "photo",
-        "width": 3024,
-        "height": 3024,
-        "path": "./photos/foo/IMG_1988.JPG",
-        "min_path": "./photos/foo/IMG_1988.min.JPG"
-      },
-      {
-        "type": "photo",
-        "width": 2052,
-        "height": 2052,
-        "path": "./photos/foo/IMG_1677.JPG",
-        "min_path": "./photos/foo/IMG_1677.min.JPG"
-      },
-      {
-        "type": "photo",
-        "width": 6240,
-        "height": 4160,
-        "path": "./photos/foo/DSCF0051.jpeg",
-        "min_path": "./photos/foo/DSCF0051.min.jpeg"
+        "path": "./photos/foo/IMG_0152.JPG",
+        "min_path": "./photos/foo/IMG_0152.min.JPG"
       },
       {
         "type": "photo",
@@ -40,6 +19,104 @@
         "height": 2917,
         "path": "./photos/foo/792A2F52-C316-47AD-8734-85A3099A4180.jpg",
         "min_path": "./photos/foo/792A2F52-C316-47AD-8734-85A3099A4180.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3840,
+        "height": 2160,
+        "path": "./photos/foo/2020121715130321--7351874612951824573-IMG_20161107_050259.jpg",
+        "min_path": "./photos/foo/2020121715130321--7351874612951824573-IMG_20161107_050259.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2160,
+        "height": 3840,
+        "path": "./photos/foo/2020121715123513--3999656489097482459-IMG_20161106_171648.jpg",
+        "min_path": "./photos/foo/2020121715123513--3999656489097482459-IMG_20161106_171648.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2160,
+        "height": 3840,
+        "path": "./photos/foo/2020121715120769--1427790642151374378-IMG_20161106_170654.jpg",
+        "min_path": "./photos/foo/2020121715120769--1427790642151374378-IMG_20161106_170654.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/foo/2020121712115196-3847279074136178160-IMG_1743.jpg",
+        "min_path": "./photos/foo/2020121712115196-3847279074136178160-IMG_1743.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/foo/2020121712061698-8112604292664313381-Image 14.jpg",
+        "min_path": "./photos/foo/2020121712061698-8112604292664313381-Image 14.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 3024,
+        "path": "./photos/foo/2020121712061698-4917439557555458027-IMG_2838.jpg",
+        "min_path": "./photos/foo/2020121712061698-4917439557555458027-IMG_2838.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 3024,
+        "path": "./photos/foo/2020121712061698-1886649110946329614-IMG_1988.jpg",
+        "min_path": "./photos/foo/2020121712061698-1886649110946329614-IMG_1988.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2396,
+        "height": 2396,
+        "path": "./photos/foo/2020121712061698-1567741786013431887-IMG_2057.jpg",
+        "min_path": "./photos/foo/2020121712061698-1567741786013431887-IMG_2057.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2052,
+        "height": 2052,
+        "path": "./photos/foo/2020121712061698--8014144494692041520-IMG_1677.jpg",
+        "min_path": "./photos/foo/2020121712061698--8014144494692041520-IMG_1677.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 3024,
+        "path": "./photos/foo/2020121712061698--5274029619271654081-7E90585C-A9FB-44A8-BA10-69643430068D.jpg",
+        "min_path": "./photos/foo/2020121712061698--5274029619271654081-7E90585C-A9FB-44A8-BA10-69643430068D.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2952,
+        "height": 2952,
+        "path": "./photos/foo/2020121712061698--4099161195859651352-0F55170D-681E-4A7A-9DBC-A58C9FE42377.jpg",
+        "min_path": "./photos/foo/2020121712061698--4099161195859651352-0F55170D-681E-4A7A-9DBC-A58C9FE42377.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3024,
+        "height": 3024,
+        "path": "./photos/foo/2020121712061698--2728487729493044995-IMG_2572.jpg",
+        "min_path": "./photos/foo/2020121712061698--2728487729493044995-IMG_2572.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2774,
+        "height": 2774,
+        "path": "./photos/foo/2020121712061698--1389527816497226081-207A6CE7-83BA-431C-834A-9BDFD858125E.jpg",
+        "min_path": "./photos/foo/2020121712061698--1389527816497226081-207A6CE7-83BA-431C-834A-9BDFD858125E.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2917,
+        "height": 2917,
+        "path": "./photos/foo/2020121712061698--1206160059063488799-792A2F52-C316-47AD-8734-85A3099A4180.jpg",
+        "min_path": "./photos/foo/2020121712061698--1206160059063488799-792A2F52-C316-47AD-8734-85A3099A4180.min.jpg"
       }
     ]
   }
