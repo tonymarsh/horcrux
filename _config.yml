@@ -1,4 +1,4 @@
-name: Horcrux
+name: Photos
 
 frame_padding: 10px
 
@@ -24,7 +24,7 @@ process:
     min_width: 600
     watermark:
       thumbnail: False
-      original: True
+      original: False
       fontsize: 40
       fontfamily: Eczar-Medium.ttf
       rotate: 0
